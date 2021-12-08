@@ -1,0 +1,19 @@
+{
+  "name": "Danny Phantom vs the world",
+  "symbol": "👻",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "2ZCUkrh3vinmM6kqd8ZqDyZDPW1ZMY9KrnVuZEQ9rXW8",
+        "share": 100
+      }
+    ]
+  }
+}
